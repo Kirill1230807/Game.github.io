@@ -18,7 +18,7 @@
     width: 800px;
     height: 480px;
 
-    background: url(../img/main-background.png) no-repeat;
+    background: url(img/main-background.png) no-repeat;
 }
 
 .game-menu__title {
@@ -109,7 +109,7 @@
     height: 480px;
     overflow: hidden;
 
-    background: url(../img/win-bg.png) no-repeat;
+    background: url(img/win-bg.png) no-repeat;
     background-size: cover;
 }
 /*                              End Main game screen style                   */
@@ -152,7 +152,7 @@
 .message--fire {
     width: 116px;
     height: 68px;
-    background: url(../img/fire-right.png) no-repeat;
+    background: url(img/fire-right.png) no-repeat;
     left: 60%;
 }
 
@@ -279,7 +279,7 @@
     width: 800px;
     height: 480px;
 
-    background: url(../img/main-background.png) no-repeat;
+    background: url(img/main-background.png) no-repeat;
 }
 
 .win-screen__title {
@@ -310,7 +310,7 @@
 }
 
 .gunman-level-1 {
-    background: url(../img/gunman.png) 0 0;
+    background: url(img/gunman.png) 0 0;
     animation: gunman-level-1__walk 1s steps(3) infinite;
 }
 
@@ -367,7 +367,7 @@
 .gunman-level-2 {
     height: 300px;
     width: 130px;
-    background: url(../img/gunman.png) 0 -268px;
+    background: url(img/gunman.png) 0 -268px;
     animation: gunman-level-2__walk 1s steps(3) infinite;
 }
 
@@ -427,7 +427,7 @@
 .gunman-level-3 {
     height: 320px;
     width: 110px;
-    background: url(../img/gunman.png) 0 -578px;
+    background: url(img/gunman.png) 0 -578px;
     animation: gunman-level-3__walk 1s steps(3) infinite;
 }
 
@@ -485,7 +485,7 @@
 
 .gunman-level-4 {
     height: 260px;
-    background: url(../img/gunman.png) 0 -910px;
+    background: url(img/gunman.png) 0 -910px;
     animation: gunman-level-4__walk 1s steps(3) infinite;
 }
 
@@ -544,7 +544,7 @@
 .gunman-level-5 {
     height: 290px;
     width: 135px;
-    background: url(../img/gunman.png) 0 -1170px;
+    background: url(img/gunman.png) 0 -1170px;
     animation: gunman-level-5__walk 1s steps(3) infinite;
 }
 
@@ -616,10 +616,10 @@
 
 @font-face {
     font-family: 'PressStart2P';
-    src: url('../fonts/PressStart2P-Regular.ttf');
+    src: url('fonts/PressStart2P-Regular.ttf');
 }
 
 @font-face {
     font-family: 'Digital-7';
-    src: url('../fonts/Digital-7.ttf');
+    src: url('fonts/Digital-7.ttf');
 }
